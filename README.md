@@ -1,4 +1,4 @@
-# Calculaator
+# Calculator
 
 This project is a basic calculator created using CSS, HTML, and JavaScript. The calculator features an interactive interface with buttons for fundamental arithmetic operations, including addition, subtraction, multiplication, and division.
 
